@@ -3,6 +3,7 @@ COURSE: SSW555
 PROJECT 3
 Team 5
 NAME: Yanjun Wu/Amog Bheemanakolli Gurumallappa
+Date: 2/12/2015
 */
 #include <iostream>
 #include <sstream>
